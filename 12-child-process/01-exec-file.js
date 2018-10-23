@@ -1,7 +1,6 @@
 #!/usr/bin/node
 
 const cp=require('child_process');
-
 var cmd=process.argv[2],
     arg=[];
 
